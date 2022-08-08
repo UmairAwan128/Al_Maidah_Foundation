@@ -1,0 +1,38 @@
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\bin\Debug\Al_Maidah_Foundation.exe.config
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\bin\Debug\Al_Maidah_Foundation.exe
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\bin\Debug\Al_Maidah_Foundation.pdb
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.Form1.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.Properties.Resources.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.csproj.GenerateResource.cache
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.csproj.CoreCompileInputs.cache
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.exe
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.pdb
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.MembersControl.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.DoctorControl.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.DonationControl.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.LabAttendentControl.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.MedicalCampControl.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.OtherExpenseControl.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.PatientControl.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.csprojResolveAssemblyReference.cache
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.MembersForm.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\bin\Debug\Al_Maidah_Foundation.exe.config
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\bin\Debug\Al_Maidah_Foundation.exe
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\bin\Debug\Al_Maidah_Foundation.pdb
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.MembersForm.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.Properties.Resources.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.csproj.GenerateResource.cache
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.csproj.CoreCompileInputs.cache
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.exe
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.pdb
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\bin\Debug\MaterialSkin.dll
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.csproj.CopyComplete
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.AL_Maidah_Foundation.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.Al_Maidah_Forms.DoctorsForm.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.Al_Maidah_Forms.MedicalCampForm.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.Al_Maidah_Forms.LabAttendantForm.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.Al_Maidah_Forms.DonationsForm.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.Al_Maidah_Forms.OtherExpenseForm.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.Al_Maidah_Forms.PatientsForm.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.Al_Maidah_Forms.MedDepForm.resources
+C:\Users\umair awan\Documents\Visual Studio 2017\Projects\Al_Maidah_Foundation using multiple forms\Al_Maidah_Foundation\obj\Debug\Al_Maidah_Foundation.csprojAssemblyReference.cache
